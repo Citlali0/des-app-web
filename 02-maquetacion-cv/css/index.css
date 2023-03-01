@@ -1,0 +1,11 @@
+body{
+    margin:0;
+    padding:0;
+    background: #FFF6EF;
+}
+
+.name {
+    width: 100%;
+    height: 300px;
+    background: #D9B7B5;
+}
