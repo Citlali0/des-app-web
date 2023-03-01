@@ -18,26 +18,26 @@ body{
 }
 
 .nombre .contenido .minombre {
-    color: #766D66;
+    color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
     font-size: 45px;
 }
 
 .nombre .contenido .escolaridad {
-    color: #766D66;
+    color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-size: 25px;
 }
 
 .nombre .contenido .contacto {
-    color: #766D66;
+    color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-size: 25px;
 }
 
 .nombre .contenido .datos {
-    color: #766D66;
+    color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-size: 25px;
 }
