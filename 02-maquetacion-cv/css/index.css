@@ -10,21 +10,21 @@ body{
     background: #D9B7B5;
 }
 
-.nomre .contenido{
+.nombre .contenido{
     width: 50%;
     height: 50px;
     position: absolute;
     left: 25%;
 }
 
-.nomre .contenido .nombre {
+.nombre .contenido .nombre {
     color: #766D66;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
     font-size: 65px;
 }
 
-.nomre .contenido .escolaridad {
+.nombre .contenido .escolaridad {
     color: #766D66;
     font-family: 'Nunito', sans-serif;
     font-size: 35px;
