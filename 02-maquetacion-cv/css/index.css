@@ -21,10 +21,22 @@ body{
     color: #766D66;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
-    font-size: 65px;
+    font-size: 45px;
 }
 
 .nombre .contenido .escolaridad {
+    color: #766D66;
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
+}
+
+.nombre .contenido .contacto {
+    color: #766D66;
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
+}
+
+.nombre .contenido .datos {
     color: #766D66;
     font-family: 'Nunito', sans-serif;
     font-size: 35px;
