@@ -20,4 +20,12 @@ body{
 .nomre .contenido .nombre {
     color: #766D66;
     font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 65px;
+}
+
+.nomre .contenido .escolaridad {
+    color: #766D66;
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
 }
