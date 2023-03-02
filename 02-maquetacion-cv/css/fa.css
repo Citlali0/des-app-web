@@ -56,7 +56,7 @@ body{
     font-weight: bolder;
     font-size: 35px;
 }
-.fageneral .conten .primaria p{
+.fageneral .conten .primaria ul{
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
@@ -69,7 +69,7 @@ body{
     font-weight: bolder;
     font-size: 35px;
 }
-.fageneral .conten .secu p{
+.fageneral .conten .secu ul{
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
@@ -82,7 +82,7 @@ body{
     font-weight: bolder;
     font-size: 35px;
 }
-.fageneral .conten .prepa p{
+.fageneral .conten .prepa ul{
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
@@ -95,7 +95,7 @@ body{
     font-weight: bolder;
     font-size: 35px;
 }
-.fageneral .conten .uni p{
+.fageneral .conten .uni ul{
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
