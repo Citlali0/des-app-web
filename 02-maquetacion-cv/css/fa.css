@@ -16,6 +16,16 @@ body{
     position: absolute;
     left: 25%;
 }
+.conte .contenido .img {
+    position: absolute;
+    top: 5%;
+    right: 18%;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
 
 .conte .titulofa h1{
     color: #564E49;
@@ -29,6 +39,15 @@ body{
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
     font-size: 45px;
+}
+
+.fageneral .conten{
+    width: 50%;
+    height: 50px;
+    position: absolute;
+    left: 25%;
+    line-height: 80%;
+
 }
 
 .fageneral .conten .primaria h1{
@@ -81,4 +100,5 @@ body{
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
     font-size: 20px;
+    line-height: 100%;
 }

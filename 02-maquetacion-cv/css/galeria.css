@@ -16,6 +16,16 @@ body{
     position: absolute;
     left: 25%;
 }
+.conte .contenido .img {
+    position: absolute;
+    top: 5%;
+    right: 18%;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
 
 .conte .titulogal h1{
     color: #564E49;
