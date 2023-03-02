@@ -27,14 +27,21 @@ body{
 
 }
 
-.conte .titulocyh h1{
+.conte .titulofc h1{
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
     font-size: 50px;
 }
 
-.cyh .conten{
+.fc .conten .cursos h1{
+    color: #d185a2;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.fc .conten {
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
@@ -43,18 +50,4 @@ body{
     height: 50px;
     position: absolute;
     left: 25%;
-}
-
-.cyh .conten .conoc h1{
-    color: #d185a2;
-    font-family: 'Nunito', sans-serif;
-    font-weight: bolder;
-    font-size: 35px;
-}
-
-.cyh .conten .hab h1{
-    color: #d185a2;
-    font-family: 'Nunito', sans-serif;
-    font-weight: bolder;
-    font-size: 35px;
 }
