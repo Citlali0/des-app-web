@@ -23,3 +23,10 @@ body{
     font-weight: bolder;
     font-size: 45px;
 }
+
+.nombre .contenido .infopersonal {
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
