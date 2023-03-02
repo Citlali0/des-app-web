@@ -32,12 +32,25 @@ body{
 }
 
 
-
 .perfilGeneral{
     width: 30%;
     height: 30px;
     position: absolute;
     left: 25%;
+}
+
+.conte .perfil h1 {
+    color: #d185a2;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.conte .perfil p {
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
 }
 
 .conte2 .contacto h1 {
@@ -47,31 +60,11 @@ body{
     font-size: 35px;
 }
 
-.conte2 .contacto .minombre {
+.conte2 .contacto {
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
-    font-size: 25px;
+    font-size: 20px;
 }
 
-.conte2 .contacto .NumeroTelefonico {
-    color: #564E49;
-    font-family: 'Nunito', sans-serif;
-    font-weight: bolder;
-    font-size: 25px;
-}
-
-.conte2 .contacto .contacto {
-    color: #564E49;
-    font-family: 'Nunito', sans-serif;
-    font-weight: bolder;
-    font-size: 25px;
-}
-
-.conte2 .contacto .datos {
-    color: #564E49;
-    font-family: 'Nunito', sans-serif;
-    font-weight: bolder;
-    font-size: 25px;
-}
 
