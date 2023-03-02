@@ -17,13 +17,9 @@ body{
     left: 25%;
 }
 
-.barra {
-    width: 50%;
-    height: 30px;
-    right: 50%;
-    position: absolute;
+.titulogal h1{
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
-    font-size: 15px;
+    font-size: 45px;
 }
