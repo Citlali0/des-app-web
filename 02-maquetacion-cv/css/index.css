@@ -30,3 +30,13 @@ body{
     font-weight: bolder;
     font-size: 35px;
 }
+
+.barra {
+    width: 50%;
+    height: 30px;
+    right: 50%;
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+}
