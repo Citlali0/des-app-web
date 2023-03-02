@@ -31,7 +31,21 @@ body{
     font-size: 35px;
 }
 
+.nombre .img {
+    position: absolute;
+    top: 5%;
+    right: 25%;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    overflow: hidden;
 
+}
+
+.name .img img {
+    width: 250%;
+    height: 460%;
+}
 .perfilGeneral{
     width: 30%;
     height: 30px;
