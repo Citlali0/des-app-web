@@ -32,11 +32,12 @@ body{
 }
 
 .barra {
-    width: 50%;
-    height: 30px;
-    right: 50%;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    left: 10%;
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
-    font-size: 15px;
+    font-size: 18px;
 }
