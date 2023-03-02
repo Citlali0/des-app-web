@@ -39,5 +39,41 @@ body{
     color: #564E49;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
-    font-size: 18px;
+    font-size: 15px;
 }
+
+.conte .contenido h1 {
+    color: #d185a2;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.conte .contenido .minombre {
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.conte .contenido .NumeroTelefonico {
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.conte .contenido .contacto {
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.conte .contenido .datos {
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
