@@ -32,6 +32,13 @@ body{
 }
 
 .galeria {
-    display: flex
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.galeria2 {
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
