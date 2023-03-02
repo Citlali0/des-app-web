@@ -1,0 +1,84 @@
+body{
+    margin:0;
+    padding:0;
+    background: #FFF6EF;
+}
+
+.conte {
+    width: 100%;
+    height: 300px;
+    background: #D9B7B5;
+}
+
+.conte .contenido{
+    width: 50%;
+    height: 50px;
+    position: absolute;
+    left: 25%;
+}
+
+.conte .titulofa h1{
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.conte .titulofa h2{
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+.fageneral .conten .primaria h1{
+    color: #d185a2;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.fageneral .conten .primaria p{
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.fageneral .conten .secu h1{
+    color: #d185a2;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.fageneral .conten .secu p{
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.fageneral .conten .prepa h1{
+    color: #d185a2;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.fageneral .conten .prepa p{
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.fageneral .conten .uni h1{
+    color: #d185a2;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.fageneral .conten .uni p{
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
