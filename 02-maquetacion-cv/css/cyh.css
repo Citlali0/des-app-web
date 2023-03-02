@@ -19,10 +19,50 @@ body{
 .conte .contenido .img {
     position: absolute;
     top: 5%;
-    right: 18%;
+    right: 12%;
     width: 180px;
     height: 180px;
     border-radius: 50%;
     overflow: hidden;
 
+}
+
+.conte .titulocyh h1{
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.conte .titulocyh h2{
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+
+.cyh .conten{
+    color: #564E49;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    width: 50%;
+    height: 50px;
+    position: absolute;
+    left: 25%;
+}
+
+.cyh .conten .conoc h1{
+    color: #d185a2;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.cyh .conten .hab h1{
+    color: #d185a2;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
 }
